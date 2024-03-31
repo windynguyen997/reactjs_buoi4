@@ -5,6 +5,7 @@ import Baitap2 from './Components/Baitap2';
 const App = () => {
     return (
         <div>
+            <p>luyện tập</p>
             <Baitap1/>
             <Baitap2/>
         </div>
