@@ -1,0 +1,7 @@
+.main{
+    background-color: bisque;
+    height: 200px;
+}
+.main.active{
+    background-color: aqua;
+}
